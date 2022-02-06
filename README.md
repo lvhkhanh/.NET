@@ -16,3 +16,10 @@
 ### https://www.w3schools.com/asp/razor_intro.asp
 ### https://www.w3schools.com/asp/webpages_intro.asp 
 ### https://www.w3schools.com/asp/asp_introduction.asp
+## Web APIs
+### Controller, ActionResult
+### JSON Patch, Ok, NotFound, Created
+### [FromQuery], [FromBody]
+### Swagger, UI, Client, XML Docs
+### HttpRepl
+### Fakeiteasy
